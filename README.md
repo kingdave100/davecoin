@@ -1,3 +1,3 @@
-FooCoin (FOO)
+DaveCoin (DVK)
 
 Blah, blah, blah.
